@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df7bdb3a-9dad-42fa-be10-e573c2bcad84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_1/Challenge1/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_1/Challenge2/FooBarQix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_1/Challenge3/Pair_of_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge1/Leaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge2/Pascal_s_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge3/Bell_s_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge4/Zig_Zag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge5/sortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge6/MatrixSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge7/MyHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge7/MyHashTableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge8/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge8/MyArrayListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge9/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections_6/Challenge9/MySetImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency_7/Challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency_7/Challenge1/RabbitRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency_7/Challenge1/RabbitRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge1/ArrayCustomIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge2/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge2/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge2/SortingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge3/Apartament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge3/RealEstateAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge3/RealEstateAgentProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge5/AscBubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge5/DescBubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge5/TemplateMethodBubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge5/TemplateMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns_3/Challenge6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge1/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge1/phonenumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge2/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge3/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge3/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge5/WordAppearance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_and_IO_4/Challenge5/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional_8/Challenge3/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Boot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/ColorsDoNotMatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Heels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics_5/Challenge2/SizesDoNotMatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge1/BoxingMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge1/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge2/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge2/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge2/Premiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OO_2/Challenge2/Studio.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JuOJSneKPczhuKTVRWf3C0s9fC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java_projects/laborator_7&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_projects\Challenges\src\Exceptions_and_IO_4\Challenge1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="Collections_6.Challenge9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections_6.Challenge9.Main" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections_6.Challenge9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concurrency_7.Challenge1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency_7.Challenge1.Main" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrency_7.Challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics_1.Challenge1.FizzBuzz" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics_1.Challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functional_8.Challenge3.Lambda" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functional_8.Challenge3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pascal_s_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections_6.Challenge2.Pascal_s_Triangle" />
+      <module name="Challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections_6.Challenge2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Concurrency_7.Challenge1.Main" />
+        <item itemvalue="Application.Lambda" />
+        <item itemvalue="Application.Pascal_s_Triangle" />
+        <item itemvalue="Application.Collections_6.Challenge9.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df7bdb3a-9dad-42fa-be10-e573c2bcad84" name="Changes" comment="" />
+      <created>1672924435047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672924435047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
